@@ -1,0 +1,9 @@
+Zone,Detail,Instruction,Comments,Supplier Answers,COMMENT
+NAZ,"Hardware (including but not limited to bolts, nuts, screws, bearings, shaft diameters) must match type that is typically found in the country the machine will be installed.",US (standard): inch,"Provide list of exceptions, if any.",Tendered for EU standard: mm,NOK
+EUR,"Hardware (including but not limited to bolts, nuts, screws, bearings, shaft diameters) must match type that is typically found in the country the machine will be installed.",European countries: metric,"Provide list of exceptions, if any.",Tendered for EU standard: metric,OK
+NAZ,"Chain & sprocket (including but not limited to roller chain, pallet conveyor chain, and mattop chain) pitch must match type typically found in country where machine will be installed.","For example, US = #60, #80 chain (1 inch pitch), #100, etc.; mattop chain pitch in inches - 4-1/2, etc.","Provide list of exceptions, if any.",Tendered for EU standard: metric chain and sprocket pitch standards,NOK
+EUR,"Chain & sprocket (including but not limited to roller chain, pallet conveyor chain, and mattop chain) pitch must match type typically found in country where machine will be installed.",European countries - metric chain & sprocket pitch standards.,"Provide list of exceptions, if any.",Tendered for EU standard: metric chain and sprocket pitch standards,OK
+NAZ,"Motor, gearbox, brake, and wiring sizes match standards of the country.",NEMA.,"Provide list of exceptions, if any.",Tendered for DIN standard,NOK
+EUR,"Motor, gearbox, brake, and wiring sizes match standards of the country.",DIN,"Provide list of exceptions, if any.",Tendered for DIN standard,OK
+NAZ,PLC,Allen Bradley Contrologix,"Provide list of exceptions, if any.",Tendered for Siemens Simotion,NOK
+,,,,,Not enough information

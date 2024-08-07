@@ -1,0 +1,14 @@
+Charachteristic,UNIT,Instruction / Comments,Supplier Answers,COMMENT
+Full description of the Depalletizer components and process,-----------,Provide attached to this DSH. Confirm?,see KHS technical machine description,Not enough information
+"Depalletizer built so its components can be propely sanitized, operated and maintain?",-----------,Requested - Confirm?,yes,OK
+Depalletizer type,-------------,Must work with Pry-Off or Twist-Off crowns: Confirm?,high level sweep-off; what is the meaning of Twist-off or Pry-off in case of bulk can depalletizing?,NOK
+Complete matrix of products that the Depalletizer is capable of producing with rates,------------,to inform,see product matrix; all products to be considered need to be specified,Not enough information
+"Total range of container diameters & heights, and pallet configuration the equipment is capable of handling",------------,to inform,see product matrix; all products to be considered need to be specified,Not enough information
+Nominal cadence proposed per can size/type,(bph),Must be equal to the filler overspeed in V-Graph indicated in PSD as a minimum,144000,OK
+Over speed per can size,(bph),Refer to the V-Graph in the PSD document,144000,Not enough information
+"Maximum speed per can size, with no limitations",(bph),Inform,155600,OK
+Minimum speed per cans size,(bph),Refer to the V-Graph in the PSD document,144000,Not enough information
+Change Over Time by can size /Type,(minutes),to inform,"5 (selection on HMI, packaging schemes identical for all can sizes, only various number of layers per pallet)",OK
+"Listing of Operational Support and PM Tasks (Running, Shot Down) required to support requested duty cycle",-------------,to inform,according to KHS operating manual,Not enough information
+Any special requirements for detail cleaning portions of machine to maintain functionality or items that require cleaning more frequently than a bi-weekly basis,-------------,to inform,according to KHS operating manual,Not enough information
+"The system is designed as an integral system, and all items, connections, and tie-ins required for operation shall be provided by the system Supplier",-------------,to inform,confirmed,OK

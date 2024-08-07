@@ -1,0 +1,28 @@
+Charachteristic,Instruction/Comments,Supplier Answers,COMMENT
+Type of filling valve,------------,KHS: Electro-pneumatic,Not enough information
+Flow at filling valve,(l/min),"KHS: 3,85L/min @ 350ml @ 120,000 cph",Not enough information
+Pitch between valves,(mm),"KHS: 89,5 mm",Not enough information
+Number of valves,(#),KHS: 184,Not enough information
+Rotation of machine at nominal speed,(rpm),"KHS:10,9 rpm",Not enough information
+Time for turn at nominal speed,(s),"KHS: 5,5 sec",Not enough information
+Filling radius,(mm),KHS: 2622 mm,Not enough information
+Time for filling at nominal speed,(s),"KHS: 3,5 sec",Not enough information
+Number of steps with cans sealed at the the valves,(#),"9
+1.  Can input
+2.  Lowering centering bell and sealing can
+3.  CO2 flushing, return gas into a separate channel
+4.  Counter pressurization
+5. Filling
+6.  Closing valve at signal of flow meter
+7.  Relief into a separate channel (pre snifting)
+8. Final snifting
+9. Release can by lifting centering bell via a cam",Not enough information
+Diameter of stars,(mm),"KHS: 883,5 mm",Not enough information
+Type of table,-------------,tableless,Not enough information
+"Machine prepared to do CIP with 2,5% of caustic soda",-------------,KHS: OK,OK
+Feet,-------------,±50mm,Not enough information
+Minimum clearance required on the underside of the Filler / conveyor.,-------------,30mm if conveyor height is 1250mm,Not enough information
+"Motors, reducers, chains and mobile parts protection",-------------,"KHS: yes, according to KHS ETS",Not enough information
+Motorized height adjuster with predefined position for each type of can,-------------,KHS: OK,OK
+Level and pressure adjustment with automatic control valves,-------------,KHS: OK,OK
+"Transmission types (cardans, pinions...)",-------------,KHS: SERVO,Not enough information

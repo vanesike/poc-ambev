@@ -1,0 +1,35 @@
+Charachteristic,Instruction/Comments,Supplier Answers,COMMENT
+Temperature probes (double PT 100),-------------,KHS: 1x PT1000,NOK
+Electric motors with frequency inverter,-------------,KHS: servo,NOK
+Centralization/indication of data/variables of current process  and defects on HMI (Human machine Interface),-------------,"KHS: yes, according to KHS standard",OK
+"Tracking and reporting of all the values, working hours, downtime reasons, machine efficiency………..",-------------,KHS: statistic in HMI,OK
+HMI (box in stainless steel),-------------,KHS: Housing made of aluminium gravity die casting.,NOK
+HMI type and position,-------------,"KHS: Human machine interface 21,5""-KHS-Clearline HMI 2.0 with RFID access control. Position: at the machine.",OK
+Defective Synoptic Led,-------------,KHS:  In DSH discription for defective Synoptic Led is not available. Please confirm,Not enough information
+Connectivity,-------------,,Not enough information
+Sensor and alarms,-------------,KHS: pls refer to machine drawing,Not enough information
+Emergency stop push bottom,-------------,"KHS: ok, on each side of the machine",OK
+Every electromechanical parts of the activating shall be protected against the action of jets and fluid splashes,-------------,KHS: ok,OK
+Electric power breake switch (padlockable) with information return to PLC for each motor,-------------,KHS: ok,OK
+"UPS for the PLC, as per  specification.",-------------,"KHS: yes, according to KHS ETS",OK
+Conduit between partition boxes,-------------,"KHS: yes, terminal boxes stainless steel",OK
+Cable trays to be installed at least 1 m above conveyors,-------------,KHS: The cables are mainly installed in wire ways but partly also in the machine frame or stainless steel lattice cable ducht without cover and open corners,NOK
+Cable trays in Stainless steel fully closed (no grid type),-------------,KHS: stainless steel lattice cable ducht without cover and open corners,NOK
+No conduit along the conveyors / All cables coming from the above cable tray,-------------,KHS: The cables are mainly installed in wire ways but partly also in the machine frame or stainless steel lattice cable ducht without cover and open corners,NOK
+Separated power and command cable trays,-------------,"KHS: ok, separation sheet inside cable tray.",OK
+Counter: hours of operation,-------------,KHS: ok,OK
+Counter cans at the entrance and exit of the seamer,-------------,KHS: ok,OK
+PLC with supervision line code,-------------,KHS: in DSH line code is not available. Please confirm.,Not enough information
+Filler PLC must have at least 3 inputs for machine interlock with Cleaning/foaming equipment supplier (for example if concentration goes out of standard - potential free contacts),-------------,KHS: ok,OK
+Line Monitoring System conection and sign,-------------,"KHS: ok, please confirm with W. Hesselmann",Not enough information
+Tower light (beacon) with 5 lights,-------------,"KHS: yes, Filler with KHS Clearline signal lamp, light colors according to ETS item 7.1",OK
+Real speed indication,-------------,KHS: speed indication for machine in HMI is OK. In DSH discription is not available. Please confirm,Not enough information
+All other Automation detail shall follow the GAS - General Automation Specification,-------------,"KHS: ok, with deviations, according to KHS ETS",Not enough information
+Number of manual command points for maintenance,-------------,"KHS: ok, filling valves are numbered",OK
+Turned can sensor at filler inlet side,-------------,KHS: can sensor adjustable for can height,OK
+Double Hand Jogger (step by step movement device) with activation of the machine only with the use of both hands (simultaneously).,-------------,KHS: ok,OK
+Back-up of softwares in DVD,-------------,KHS: software backup in USB flash drive,NOK
+Wiring diagrams in paper and hard copy,-------------,KHS: ok,OK
+"All sensors (including but not limited to photoeyes, proximity switches, encoders) shall have an tag mounted nearby for easy operator/technician identification.",-------------,KHS: ok,OK
+All wires must be labeled at each end with a code/ wire # per the electrical drawings,-------------,KHS: ok,OK
+"All wiring in panels, control stations, and terminal blocks must include service loops for future maintenance efforts.",-------------,KHS: ok,OK
