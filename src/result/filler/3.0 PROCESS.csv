@@ -4,32 +4,11 @@ Mechanical Filler or Volumetric filler controlled by magnetic inductive flow con
 Inform if the filler tank is on the carrousel or external tank,-------------,tubular ring bowle,Not enough information
 "In case of tank on the carrousel, tank level control by sondes",-------------,controlled by 3 probes,OK
 Quantity of fillers machines proposed to attend the specified capacity,(#),KHS: 01,OK
-Complete matrix of products Can Filler is capable of producing with rates,--------------,"KHS: Beer, 4°C:
-269ml: 120.000cph
-355ml STD: 120.000cph
-355ml Sleek: 120.000cph
-410ml: 100.000cph
-473ml: 90.000cph",OK
-Total nominal cadence proposed per can size,(cph),"KHS: Beer, 4°C:
-269ml: 120.000cph
-355ml STD: 120.000cph
-355ml Sleek: 120.000cph
-410ml: 100.000cph
-473ml: 90.000cph",OK
-Total over speed per can size,(cph),"KHS: Beer, 4°C:
-269ml: 126.000cph
-355ml STD: 126.000cph
-355ml Sleek: 126.000cph
-410ml: 105.000cph
-473ml: 94.500cph",OK
-"Maximum speed per can size, beer type & filling temperature",(cph),"KHS: Beer, 4°C:
-269ml: 126.000cph
-350ml STD: 126.000cph
-350ml Sleek: 126.000cph
-410ml: 105.000cph
-473ml: 94.500cph",OK
-"Minimum speed per can size, bee type & filling temperature",(cph),"KHS: Beer, 4°C:
-All formats: 5.000 cph - jog mode",OK
+Complete matrix of products Can Filler is capable of producing with rates,--------------,"KHS: Beer, 4°C: 269ml: 120.000cph 355ml STD: 120.000cph 355ml Sleek: 120.000cph 410ml: 100.000cph 473ml: 90.000cph",OK
+Total nominal cadence proposed per can size,(cph),"KHS: Beer, 4°C: 269ml: 120.000cph 355ml STD: 120.000cph 355ml Sleek: 120.000cph 410ml: 100.000cph 473ml: 90.000cph",OK
+Total over speed per can size,(cph),"KHS: Beer, 4°C: 269ml: 126.000cph 355ml STD: 126.000cph 355ml Sleek: 126.000cph 410ml: 105.000cph 473ml: 94.500cph",OK
+"Maximum speed per can size, beer type & filling temperature",(cph),"KHS: Beer, 4°C: 269ml: 126.000cph 350ml STD: 126.000cph 350ml Sleek: 126.000cph 410ml: 105.000cph 473ml: 94.500cph",OK
+"Minimum speed per can size, bee type & filling temperature",(cph),"KHS: Beer, 4°C: All formats: 5.000 cph - jog mode",OK
 Minimum/Maximum can diameter,(mm),KHS: 53mm/73mm,OK
 Minimum/Maximum can height,(mm),KHS: 88mm/210mm,OK
 Minimum/Maximum end diameter,,200-206 without changing tulip,OK

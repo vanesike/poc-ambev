@@ -4,7 +4,8 @@ import pandas as pd
 class CalcScores:
     def run(self):
         df = self.process_files()
-        _ = self.generate_scores_df(df)
+        df_scores = self.generate_scores_df(df)
+        return df_scores
 
     def process_files(self):
         files = 'src/result/filler'
@@ -40,4 +41,4 @@ class CalcScores:
         }
 
         df = pd.DataFrame(list(scores.items()), columns=['Category', 'Percentage'])
-        df.to_csv('src/result/filler/scores.csv', index=False)
+        return df

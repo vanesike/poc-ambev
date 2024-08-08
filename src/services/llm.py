@@ -49,4 +49,6 @@ class CallLLM:
         chain = prompt | model | parser
 
         result = chain.invoke({"df_data": df})
-        pd.DataFrame(result).to_csv(f'src/result/filler/{section_name.replace("/", "")}.csv', index=False)
+        result_df = pd.DataFrame(result)
+        result_df.to_csv(f'src/result/filler/{section_name.replace("/", "")}.csv', index=False)
+        return result_df

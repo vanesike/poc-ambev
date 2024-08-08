@@ -2,14 +2,14 @@ import pandas as pd
 from openpyxl import load_workbook
 
 class ProcessSheet:
-    def __init__(self, file_path, sheet_name, column_letters):
-        self.file_path = file_path
+    def __init__(self, file, sheet_name, column_letters):
+        self.file = file
         self.sheet_name = sheet_name
         self.column_letters = column_letters
 
     def extract_info(self):
         # Load workbook and sheet
-        wb = load_workbook(self.file_path, data_only=True)
+        wb = load_workbook(self.file, data_only=True)
         sheet = wb[self.sheet_name]
 
         # Read column names from row 15
