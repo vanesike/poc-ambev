@@ -2,7 +2,7 @@ Charachteristic,Instruction/Comments,Supplier Answers,COMMENT
 Temperature probes (double PT 100),-------------,KHS: 1x PT1000,NOK
 Electric motors with frequency inverter,-------------,KHS: servo,NOK
 Centralization/indication of data/variables of current process  and defects on HMI (Human machine Interface),-------------,"KHS: yes, according to KHS standard",OK
-"Tracking and reporting of all the values, working hours, downtime reasons, machine efficiency………..",-------------,KHS: statistic in HMI,OK
+"Tracking and reporting of all the values, working hours, downtime reasons, machine efficiency……….. ",-------------,KHS: statistic in HMI,OK
 HMI (box in stainless steel),-------------,KHS: Housing made of aluminium gravity die casting.,NOK
 HMI type and position,-------------,"KHS: Human machine interface 21,5""-KHS-Clearline HMI 2.0 with RFID access control. Position: at the machine.",OK
 Defective Synoptic Led,-------------,KHS:  In DSH discription for defective Synoptic Led is not available. Please confirm,Not enough information
@@ -11,7 +11,7 @@ Sensor and alarms,-------------,KHS: pls refer to machine drawing,Not enough inf
 Emergency stop push bottom,-------------,"KHS: ok, on each side of the machine",OK
 Every electromechanical parts of the activating shall be protected against the action of jets and fluid splashes,-------------,KHS: ok,OK
 Electric power breake switch (padlockable) with information return to PLC for each motor,-------------,KHS: ok,OK
-"UPS for the PLC, as per  specification.",-------------,"KHS: yes, according to KHS ETS",OK
+"UPS for the PLC, as per  specification. ",-------------,"KHS: yes, according to KHS ETS",OK
 Conduit between partition boxes,-------------,"KHS: yes, terminal boxes stainless steel",OK
 Cable trays to be installed at least 1 m above conveyors,-------------,KHS: The cables are mainly installed in wire ways but partly also in the machine frame or stainless steel lattice cable ducht without cover and open corners,NOK
 Cable trays in Stainless steel fully closed (no grid type),-------------,KHS: stainless steel lattice cable ducht without cover and open corners,NOK
