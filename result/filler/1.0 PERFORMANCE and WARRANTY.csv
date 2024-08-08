@@ -1,0 +1,28 @@
+CNV,ITEM DESCRIPTION,UNIT,INDEX,Instruction / Comments,Supplier Answers,COMMENT
+Reliablity,Can Filler system shall operate % of the available opearting time,(%),>99,Inform,KHS: 98%,NOK
+Quality,"Saleable product efficiency to be accetable, 99.73% of the cans produced by the Filler shall meet ABInBev's quality specifications",(%),>99.73,Inform,KHS: OK,OK
+Filler Performance,Infeed Jam,------------,</= 1 per 4 hours,Inform,"KHS: failed treatments in total ≤0,05%",Not enough information
+,Can Damage,------------,</= 1 per 4 hours,Inform,"KHS: ≤0,02%",Not enough information
+,Beer Loss,(%),"<  0.5%, excluding changeovers",Measured after the filler and seamer related to the total beer supplied to the filler,"KHS: Beer loss can not be measured. Product rest which can remain on the tulip and which are lost in the dead angle are not measurable. Sometimes these drops are then carried off to the next open can. There are 2 possibilities what can be measured: 1. Place a container under the return gas outlet at the valve node and collect these residues, which are pulled out of the can, usually a mixture of product and rinsing water. The beer ratio can be measured via the original extract. Max. 1ml / can 2. The capper usually has 2-4 drains in the table top, also here a container can be placed in each case. In this case, in addition, belt lubricant is also derived, as well as original extract can be used to measure the loss in the capper, also 1 ml / can.",NOK
+,Grease contamination of cans,------------,0,Inform,KHS: OK,OK
+,Maximum downtime duration for any event,------------,1 minute,Inform,downtime depents in the nature of event,NOK
+,Cans shall be < 10 mg/l TPO greater than bulk beer,(%),99.7,Measured using an Orbisphere Package Analyzer.Inform,"KHS: ok, oxygen pick up (without preload) = 100ppb oxygen meter by Anton Paar",NOK
+,Cans shall have a CO2 volume < 0.05 vol/vol  of bulk beer,(%),99.7,Measured using an Orbisphere Package Analyzer.Inform,KHS: can not be influenced by the filler,NOK
+,Fill point on 50% of the cans shall be within,(mm),+/- 1.0,Of target fill point. Confirm?,"KHS: filling accuracy is given within standard deviation ""S"" =0,8ml for ≤330ml and 1ml for ≤500ml",OK
+,The filler shall fill all cans within,(mm),+/- 4.5,Of target fill point. Confirm?,"KHS: filling accuracy is given within standard deviation ""S"" =0,8ml for ≤330ml and 1ml for ≤500ml",OK
+,Badly filled cans,(%),0.15 maximum,"After final inspection (after PZ), including damaged packages",KHS: OK,OK
+,Speed of liquid at dome entrance,(m/s),0.6 minimum,Confirm?,KHS: OK,OK
+"Time for a change over with two operators, by can type",,(min),------------------,Inform,KHS: 20 min. for filler,OK
+Oxygen pick-up 1 (The O2 incremented during the filling process),,(ppb),Max. 15,"Measured in the can after filling and closed, calculated ""Without shaking method"": O2 pick up 1= measure ppb (without shaking) - O2 in beer before beer.",KHS pls refer to 1.0.17,Not enough information
+Oxygen pick-up 2 (The O2 incremented during the filling process),,(ppb),Max. 30,Measured in the can after shaking: O2 pick up 2= measure ppb (with rotation) - O2 pick up 1 - O2 in beer before filler.,KHS pls refer to 1.0.17,Not enough information
+Total O2 pick up of the filler,,(ppb),≤ 45,Total O2 pick up = O2 pick up 1 + O2 pick up 2,"KHS: confirmed, <60ppb",NOK
+CO2 average loss in filler and seamer,,(% weight),≤ 0.02,,"KHS: ≤0,1g/l",NOK
+"CO2 maximum loss in filler and seamer, per individual can",,(% weight),≤ 0.03,,"KHS: ≤0,1g/l",NOK
+CO2 maximum consumption during filling process,,(kg/hl of beer),1.50,Including seamer consumption. Inform.,"KHS: 375g/hl for ≤330ml, 600g/hl for ≤500ml",OK
+Guarantees of contamination absence and maintenance of organoleptic properties,,(%),100,Keep conditions of beer input. Confirm?,KHS: please inform how this will be measured that microbiological conditions of beer input are kept,Not enough information
+Seaming failures,,(%),≤ 0.001,Confirm?,KHS: ≤ 0.02,NOK
+"All supplier furnished equipment/components, including third-party components supplied with  the system, shall function per the performance and operating criteria for a period of at least 2 years or 16,000 hours without failure, major repair or replacement of such parts, sturctures or assebmlies. The warranty shall be count after the equipment approval in the Provisional Acceptance Test.",,-------------,-------------,"16,000 hours minimum warranty, for parts and workmanship. Confirm?","KHS: max. 8000 hours respectively 24 month, a period of 30 month from delivery to the relevant customer's installation site, whatever comes first, provided maintenance as per KHS specification is adhered too.",NOK
+"The construction way, accessories and devices shall meet the GOP items",,-------------,-------------,See GOPs General Table. Required. Confirm?,,Not enough information
+Maximum Maintenance costs (Material + Labor) warranted,,(US$),------------------,"Inform for 20,000 / 24,000 / 28,000 service hours.","KHS: 8.000 h – included 12.000 h – 3,0 % 16.000 h – 3,2 % 20.000 h – 5,5 % 24.000 h – 3,4 % Percentage from List price Warranty only.",OK
+Strutural guarantee and spare parts disponibility,,(years),10 minimum,Confirm?,"KHS: Agreed by KHS in general 10 Years for hidden faults on statics, non-dynamic loaded structures and cause is 100 % on KHS responsibility, starting from FSP date. Spare parts: > 10 years ok for mechanical parts. Electrical parts depending on availability. Should electrical parts discontinoued by sub supplier, alternative must be investigated.",OK
+Noise Level,,(dB A),≤ 80,Measured at 1 m from the source. Confirm?,KHS: ≤85dB,NOK

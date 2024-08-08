@@ -1,0 +1,46 @@
+Charachteristic,Instruction/Comments,Supplier Answers,COMMENT
+Input / output conveyors,-------------,KHS: OK,OK
+Cover of SS over infeed starwheel (1st star) and screw,-------------,KHS: OK,OK
+Cover of SS over intermediate starwheel (2nd starwheel),-------------,KHS: OK,OK
+Shield of SS between 1st starwheel and 2nd starwheel,-------------,KHS: OK,OK
+"Between the rinser and filler and between filler and seamer, conveyors shall have a cover to protect the cans against the entry of insects and other contaminants.",-------------,KHS: Not in filler scope --> Conveyor,NOK
+Stainless steel (AISI 304) operating platform on its frontal side (load) and at the unload,-------------,KHS: N/A,NOK
+Stainless steel (AISI 304) access platforms for all filler components at 2 m height or more,-------------,KHS: OK,OK
+"Asepsis partial system (CIP) including the flow maneuver panel and all items after it: CIP advance tubing, CIP return tubing, asepsis fluids circulation ring and all the necessary parts for cleaning performance of the circuit, and by where the product flows, in connection with the Automatic CIP Station (ACIP). The filler CIP lines with no section that cannot be rinsed or which cannot be completely drained.",-------------,"KHS: OK, but not in filler scope --> ACIP",NOK
+Feed and return pipelines between the CIP Station and filler shall have three circuit possibilities: first- feed through process maneuvering plate and return after filler; second- feed through process maneuvering plate and return through filler maneuvering plate; third- feed through filler maneuvering plate and return after the filler.,-------------,"KHS: OK, but not in filler scope",NOK
+Mobile change part racks,-------------,KHS: OK,OK
+Filter before filler at the product arrival line,-------------,"KHS: ok, minimum 100µm",OK
+Push button for step by step movement,-------------,KHS: OK,OK
+Disinfection of filler tulips,-------------,KHS: Tulips are integrated in CIP process,OK
+Fluid expansion reservoirs (air/CO2),-------------,KHS: NOK,NOK
+Filling control system,-------------,KHS: OK,OK
+"Containment gutters at the side of the equipment, in stainless steel, to hold liquids spilled over the base and subsequent forwarding to a “drain” to maintain the floor of production line dry",-------------,KHS: NOK,NOK
+"Numbering of the positions of valves (number size: 20x30 mm) in low relief, through electroerosion process, brown color, located at the support of tulips",-------------,"KHS: NOK, according KHS standard",NOK
+"150W reflector (fluorescent gas lamp) positioned in the internal upper part of the front door, directed to the middle star, for viewing of filling and of the machine at night",-------------,KHS: OK,OK
+5 (five) reserve sets of filling valves,-------------,KHS: OK,OK
+Supply of bath tank for the CIP caps,-------------,KHS: OK,OK
+"Provision of at least two bubble breakers, with modulation of gas flow and pressure according to speed variation of the filler. shall be installed on the conveyor, equidistant, between filler and seamer.",-------------,KHS: to be quoted with seamer,NOK
+Automatic centralized lubrication system with pneumatic pump / reservoir capacity 20 kg / distributors and lid of reservoir (with key) in stainless steel.,-------------,"KHS: yes, according to KHS ETS.",OK
+"Filler interlocked with oxygen meter: for beer, if the maximum dissolved oxygen is exceeded, the operation of the filler shall be discontinued and an alarm be triggered",-------------,"KHS: Pipping and instrumentation not according to drawing below - See instrumentation disposition on the right. The beer pipe module will be executed according to the KHS Standard design, but with the specific requirement of AB Inbev that the O2 meter is positioned as close as possible to the filler Ringbowl. Anyhow, this disposition is not recomended by KHS and the KHS Standard disposition has been accepted by AB Inbev in many projects around the world and also accepted and aproved without any problem.",Not enough information
+"Oxygen and Brix Analyzer (Cobrix): for filling of soft drink, if the minimum and maximum CO2 and Brix limits are exceeded, the operation of the filler shall be discontinued and an alarm be triggered",-------------,KHS: O2 measuring unit integrated; but brix integrated (only beer) NOT installed; plato unit integrated,NOK
+Shower system after seamer with: Jets targeted to washing the cans; on-off valve for interrupting the flow of water in case of stoppage of the conveyor; the spraying system can be fed with tap water (belonging to this scope) or recovered water.,-------------,"KHS: ok, water quality acc. To KHS specifications",OK
+Front /side doors,-------------,KHS: swing doors,OK
+"Automatic operation of the foam system driven by HMI of the filler. To this purpose, there shall be full integration and full exchange of signals between the generating station and the system foam applicator.",-----------,KHS: OK,OK
+System of ultra-violet lamps inside filler (only for soft drink configuration).,-----------,KHS: NA (no soft drinks),OK
+Automatic lid feeder,-----------,KHS: OK; Not in filler scope; pls refer to slide for lid feeder,NOK
+Strainer with sight glass,-------------,"KHS: OK, but sight glass in separate unit",NOK
+Valve- On off- Motorized for drainage,-------------,KHS: OK; KHS P&I applies,OK
+Valve-Filler bowl- remote level control,-------------,KHS: OK; KHS P&I applies,OK
+Valve- On off - motorized - controled by Conductivimetre,-------------,KHS: OK; KHS P&I applies,OK
+Conductivimetre for valves 5 and 7 control,-------------,"KHS: Painted carbon steel Ambev: Must be in stainless steel. Please confirm. KHS : As agree for the Juatuba (KHS Document ETS 89407145 - See attached in the sheet ""DevList)",NOK
+Pressure transmiter for pump controlling,-------------,KHS: OK; KHS P&I applies,OK
+Sample collection valve,-------------,KHS: OK Ambev: Must be in stainless steel. Please confirm. Stainless steel OK,OK
+"Electromagnetic flow meter for beer, made ​​by a manufacturer accredited by ABInBev (see Vendor List), to be installed in feed line of the filler. Signals shall be sent to the filler PLC and made available to the supervisory process of beer.",-------------,KHS: OK; KHS P&I applies; made Rieger,OK
+CIP Pump,-------------,KHS: OK; KHS P&I applies,OK
+Air-Sterile filter (Ultra filter type),-------------,"KHS: sterile air filter included (0,2µm) ; KHS P&I applies; DIN11853-2; customer's pressurized air supply acc KHS specs",OK
+CO2 / N2 - Mass flow meter manufactured by a certified supplier by ABInBev at filler and seamer inlet side.,-------------,KHS: OK,OK
+"Use of gases for pressurizing the dome filler or flushing seamer: CO2 or N2/CO mixture (beer) / CO2 or N2 or compressed air (soft drink) / Only one set of three filters in series, just before the dome is enough for the gases that feed the filler: 5µ and 1µ for particles and one microbiological.",-------------,KHS: 1x sterile filter for either CO2 or N2 included; KHS P&I applies; DIN11853-2; customer's pressurized media supply acc KHS specs,OK
+"Each gas line, before the filters, shall have an ON/OFF valve operated through the HMI, in an automated way, in order to permit the choice of the manner that the pressurization has to be done.",-------------,KHS: OK,OK
+"Beer pressure control system: beer pump and its variable speed device, including the cable and the electric connection",-------------,KHS: OK; KHS P&I applies; pump and sign exchange cabling in scope KHS; power supply to beer pump in scope customer,OK
+Sanitary execution pressure gauge,-------------,KHS: must be explained in detail; KHS P&ID applies,Not enough information
+"The system is designed as an integral system, and all items, connections, and tie-ins required for operation shall be provided by the system Supplier",,KHS: OK,OK

@@ -1,0 +1,10 @@
+Charachteristic,Instruction / Comments,Supplier Answers,COMMENT
+Infeed conveyors,Requested chain type. Confirm?,pallet conveyor with 3 chains from destrapping station to machine segment,Not enough information
+Outfeed or infeed conveyors shall be driven by frequency inverters,Requested. Confirm?,confirmed,OK
+doors and guarding,Lifting or hinging? Inform.,hinging,OK
+Pneumatic schematic and listing of components components,Submit design with proposal,included in documentation delivered with machine. KHS standard  FESTO,OK
+"List gearbox ratios, sizes, model and manufacture used in design",to inform,included in documentation delivered with machine.,OK
+"Transmission types (cardans, pinions...)",Inform,"cardans, pinions, toth belts depend on operatiion",OK
+Design of deadplates (if used),Inform,no deadplate in use,OK
+"Supply of devices, accessories, electrical and instrumentation components",In accordance with local ABI Vendor List. Confirm?,"see deviation list - ""KHS Mechanical Specifications + KHS Electrical Specifications """,Not enough information
+Furnish all special splice or end plates required for connecting with other new or existing equipment,Requested. Confirm?,confirmed,OK

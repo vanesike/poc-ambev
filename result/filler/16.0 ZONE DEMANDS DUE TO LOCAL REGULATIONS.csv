@@ -1,0 +1,26 @@
+Zone,Detail,Instruction,Comments,Supplier Answers,COMMENT
+NAZ,"Hardware (including but not limited to bolts, nuts, screws, bearings, shaft diameters) must match type that is typically found in the country the machine will be installed.",US (standard): inch,"Provide list of exceptions, if any.",NA,Not enough information
+EUR,"Hardware (including but not limited to bolts, nuts, screws, bearings, shaft diameters) must match type that is typically found in the country the machine will be installed.",European countries: metric,"Provide list of exceptions, if any.",NA,Not enough information
+NAZ,"Chain & sprocket (including but not limited to roller chain, pallet conveyor chain, and mattop chain) pitch must match type typically found in country where machine will be installed.","For example, US = #60, #80 chain (1 inch pitch), #100, etc.; mattop chain pitch in inches - 4-1/2, etc.","Provide list of exceptions, if any.",NA,Not enough information
+EUR,"Chain & sprocket (including but not limited to roller chain, pallet conveyor chain, and mattop chain) pitch must match type typically found in country where machine will be installed.",European countries - metric chain & sprocket pitch standards.,"Provide list of exceptions, if any.",NA,Not enough information
+NAZ,"Motor, gearbox, brake, and wiring sizes match standards of the country.",NEMA.,"Provide list of exceptions, if any.",NA,Not enough information
+EUR,"Motor, gearbox, brake, and wiring sizes match standards of the country.",DIN,"Provide list of exceptions, if any.",NA,Not enough information
+NAZ,PLC,Allen Bradley Contrologix,"Provide list of exceptions, if any.",NA,Not enough information
+EUR,"Hardwareplan - Documentation in ""E-Plan 8.0""",Mandatory.,Confirm.,NA,Not enough information
+LAN,"Calibration - Certificates of calibration of all instruments, issued by authorized laboratory accredit by INMETRO, in accordance with RBC (Rede Brasileira de Calibração) procedures, with traceable standards: pressure gauges, thermometers, flow meters, pressure switches, thermostats, oxygen meters, conductivity meters and others used in the packaging process.",Mandatory,Confirm?,NA,Not enough information
+GER,Maschinenrichtlinie 2006/42/EG,legal,Confirm,NA,Not enough information
+GER,Geräte und Produktionssicherheitsgesetz (GPSG),legal,Confirm,NA,Not enough information
+GER,Betriebssicherheitsverordnung (BetrSichV),legal,Confirm,NA,Not enough information
+GER,Verordnungen zum Geräte- und Produktionssicherheitsgesetz (GPSGV),legal,Confirm,NA,Not enough information
+GER,CE – Konformität für Bauteile / Baugruppen / Maschinen,legal,Confirm,NA,Not enough information
+GER,CE - Kennzeichnung gem. gültigem EU Recht + beigefügter Konformitätserklärung und/oder beigefügter Herstellererklärung,legal,Confirm,NA,Not enough information
+GER,"CE - Kennzeichnung der Anlage / Maschine wird durch den Lieferanten an repräsentativer Stelle angebracht.
+ In der CE Erklärung sind die angewandten EN zu benennen",legal,Confirm,NA,Not enough information
+GER,In der CE Erklärung sind die angewandten EN zu benennen,legal,Confirm,NA,Not enough information
+GER,Druckgeräterichtlinie 2014/68/EU,legal,Confirm,NA,Not enough information
+GER,Richtlinien und Vorgaben der Berufsgenossenschaft (BGV-Regeln),legal,Confirm,NA,Not enough information
+GER,ADI Merkblätter für Rohrleitungen und Behälter,legal,Confirm,NA,Not enough information
+GER,Lärm - Emmisionsdaten der Maschinen und Aggregate müssen der LärmVibrationsArbSchV vom 6. März 2007 (BGBl. I S. 261) entsprechen.,legal,Confirm,NA,Not enough information
+GER,EN 415-6 Sicherheit von Verpackungsmaschinen / Paletteneinschlagmaschinen,legal,Confirm,NA,Not enough information
+EUR,All equipments delivered following the Euro-Norm EN  (CE2A) for the complete limit of supply.,CE-2A label,Confirm,NA,Not enough information
+EUR,Efficiency test following the European Euro-Norm EN 8782,EN 8782,Confirm,NA,Not enough information
