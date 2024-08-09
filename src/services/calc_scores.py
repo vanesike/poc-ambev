@@ -41,4 +41,5 @@ class CalcScores:
         }
 
         df = pd.DataFrame(list(scores.items()), columns=['Category', 'Percentage'])
+        df.to_csv('src/result/filler/SCORES.csv', index=False)
         return df

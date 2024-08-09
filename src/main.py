@@ -8,8 +8,6 @@ from services.generate_excel import GenerateExcel
 import streamlit as st
 
 file_path_khs = 'files/KHS.xlsx'
-file_path_krones = 'files/KRONES.xlsx'
-file_path_sidel = 'files/SIDEL.xlsx'
 sheet_filler = 'CAN Filler'
 column_filler = ['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']
 
@@ -39,3 +37,6 @@ if uploaded_file is not None:
     df_scores = scores.run()
     st.subheader("SCORES:")
     st.write(df_scores)
+
+    # planilha final
+    excel = GenerateExcel.run()
